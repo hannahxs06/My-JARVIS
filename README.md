@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project demonstrates how to create a voice-activated assistant that listens to your speech, transcribes it into text, sends the text to OpenAI's GPT-4 model, and then speaks out the response. The assistant mimics JARVIS from Iron Man and can be continuously engaged in a conversation. This project is perfect for beginners looking to explore the intersection of speech recognition, natural language processing, and text-to-speech conversion.
+This project demonstrates how to create a voice-activated assistant that listens to your speech, transcribes it into text, sends the text to OpenAI's GPT-4 model, and then speaks out the response. The assistant mimics JARVIS from Iron Man and can be continuously engaged in a conversation. 
 
 ## Getting Started
 
